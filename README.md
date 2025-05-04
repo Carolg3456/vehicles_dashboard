@@ -6,3 +6,8 @@ Esta es una aplicación web creada con Streamlit que permite visualizar datos so
 - Visualización de un histograma del odómetro.
 - Gráfico de dispersión entre año del modelo y precio.
 - Interfaz interactiva con casillas de verificación.
+## 🌐 Aplicación web en línea
+
+Puedes acceder a la aplicación desplegada en Render haciendo clic en este enlace:
+
+👉 https://vehicles-dashboard-streamlit.onrender.com
